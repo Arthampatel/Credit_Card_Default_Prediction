@@ -53,7 +53,7 @@ A robust predictive model that accurately identifies customers at risk of defaul
 - `results/`: Evaluation results and model performance metrics
 - `README.md`: Project overview and documentation
 
-## Geeting Started
+## Getting Started
 https://colab.research.google.com/drive/1SVBwxc1IMnKhj1rRLm78eOs1k7YAniiX?usp=sharing
 
 ## Conclusion
