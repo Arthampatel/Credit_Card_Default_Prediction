@@ -4,7 +4,7 @@
 
 This project aims to predict whether a customer will default on their credit card payment in the next billing cycle using supervised classification models. The performance of the models will be evaluated using the Area Under the Receiver Operating Characteristic Curve (AUC-ROC).
 
-## Background
+## Statement
 
 Credit card defaulting poses a significant risk to financial institutions, leading to considerable financial losses. Predicting defaults helps banks and financial institutions manage credit risk more effectively and make informed decisions regarding credit issuance and debt recovery strategies.
 
@@ -52,7 +52,7 @@ The target variable is:
 A robust predictive model that accurately identifies customers at risk of defaulting on their credit card payments. The model will provide actionable insights for financial institutions to improve credit risk management, reduce default rates, and enhance profitability.
 
 ## Getting Started
-https://colab.research.google.com/drive/1SVBwxc1IMnKhj1rRLm78eOs1k7YAniiX?usp=sharing
+[https://colab.research.google.com/drive/1SVBwxc1IMnKhj1rRLm78eOs1k7YAniiX?usp=sharing](https://github.com/Arthampatel/Credit_Card_Default_Prediction/blob/main/Credit_Card_Default_Prediction.ipynb)
 
 ## Conclusion
 By leveraging machine learning techniques and historical credit card usage data, this project aims to deliver a reliable solution for predicting credit card defaults. This will enable financial institutions to make informed decisions, minimize credit risk, and optimize their credit issuance strategies.
