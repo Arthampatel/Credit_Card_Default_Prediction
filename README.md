@@ -53,16 +53,8 @@ A robust predictive model that accurately identifies customers at risk of defaul
 - `results/`: Evaluation results and model performance metrics
 - `README.md`: Project overview and documentation
 
-## Getting Started
+## Geeting Started
+https://colab.research.google.com/drive/1SVBwxc1IMnKhj1rRLm78eOs1k7YAniiX?usp=sharing
 
-### Prerequisites
-
-- Python 3.7+
-- Jupyter Notebook
-- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost, lightgbm
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Arthampatel/credit-card-default-prediction.git
+## Conclusion
+By leveraging machine learning techniques and historical credit card usage data, this project aims to deliver a reliable solution for predicting credit card defaults. This will enable financial institutions to make informed decisions, minimize credit risk, and optimize their credit issuance strategies.
