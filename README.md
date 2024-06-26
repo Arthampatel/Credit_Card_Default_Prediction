@@ -13,7 +13,8 @@ Credit card defaulting poses a significant risk to financial institutions, leadi
 Develop a supervised classification model to predict the likelihood of a customer defaulting on their credit card payment. The model's performance will be primarily evaluated using the AUC-ROC metric.
 
 ## Data Description
-[Copy of default of credit card clients.xls](https://github.com/user-attachments/files/15986653/Copy.of.default.of.credit.card.clients.xls)
+
+[DataSet.xls](https://github.com/user-attachments/files/15986659/DataSet.xls)
 
 The dataset contains historical information on customers' credit card usage and payment behavior. Key attributes include:
 
