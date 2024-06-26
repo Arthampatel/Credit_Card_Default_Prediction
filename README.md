@@ -51,15 +51,6 @@ The target variable is:
 
 A robust predictive model that accurately identifies customers at risk of defaulting on their credit card payments. The model will provide actionable insights for financial institutions to improve credit risk management, reduce default rates, and enhance profitability.
 
-## Repository Structure
-
-- `data/`: Contains the dataset and any data preprocessing scripts
-- `notebooks/`: Jupyter notebooks for data exploration, analysis, and model development
-- `src/`: Source code for data processing, feature engineering, and model building
-- `models/`: Saved models and related files
-- `results/`: Evaluation results and model performance metrics
-- `README.md`: Project overview and documentation
-
 ## Getting Started
 https://colab.research.google.com/drive/1SVBwxc1IMnKhj1rRLm78eOs1k7YAniiX?usp=sharing
 
